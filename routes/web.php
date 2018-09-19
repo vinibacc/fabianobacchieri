@@ -14,3 +14,18 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/mais-pampa-menos-povo', function () {
+    return view('discos.maispampa');
+});
+Route::get('/marca-aovivo', function () {
+    return view('discos.marca');
+});
+Route::get('/saludo', function () {
+    return view('discos.saludo');
+});
+Route::get('/bio', function () {
+    return view('bio');
+});
+Route::get('/bio', function () {
+    return view('bio');
+});

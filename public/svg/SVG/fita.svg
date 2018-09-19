@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560.41 202">
+<title>fita</title>
+<g id="Camada_2" data-name="Camada 2">
+<g id="Camada_1-2" data-name="Camada 1">
+<path d="M332,94V76H295V58H258V40H221V22H192.41V40h-37V58h-37V76h-37V94h-37v18h37v18h37v18h37v18h37v18H221V166h37V148h37V130h37V112h36V94ZM220.71,148.5h-29v-18h29Zm73.7-37.5h-36v18H214V111h36V93H214V75H199.41V93h-37v17h37v18H155V111H118V93h37V75h37.21V57h29V75h37.2V93h36Z" style="fill:none"/>
+<path d="M449.41,77V94h-37v18h37v17H479V111h37V95H479V77Zm23.8,34H455V93h18.21Z" style="fill:none"/>
+<path d="M486.41,59V58h37V40h37V22H516V40H479V57H449.41V41h-37V23H368V41h37V59h37V76H405V94H376.41V76h-37V58h-37V40h-37V22h-37V4H184V22H148V40H111V58H74V76H37V94H0v18H37v18H74v18h37v18h37v18h36v18h44.41V184h37V166h37V148h37V130h37V112H405v18h37v17h44.41V129h37V111h37V93h-37V77h-37V59ZM332,112v18H295v18H258v18H221v18H192.41V166h-37V148h-37V130h-37V112h-37V94h37V76h37V58h37V40h37V22H221V40h37V58h37V76h37V94h36v18ZM516,95v16H479v18H449.41V112h-37V94h37V77H479V95Z" style="fill:white"/>
+<rect x="455" y="93" width="18.21" height="18" style="fill:white"/>
+<rect x="442" width="44.41" height="18" style="fill:white"/>
+<rect x="313" width="44.41" height="18" style="fill:white"/>
+<rect x="59" width="44.41" height="18" style="fill:white"/>
+<rect x="442" y="184" width="44.41" height="18" style="fill:white"/>
+<rect x="313" y="184" width="44.41" height="18" style="fill:white"/>
+<rect x="59" y="184" width="44.41" height="18" style="fill:white"/>
+<polygon points="258.41 75 221.21 75 221.21 57 192.21 57 192.21 75 155 75 155 93 118 93 118 111 155 111 155 128 199.41 128 199.41 110 162.41 110 162.41 93 199.41 93 199.41 75 214 75 214 93 250 93 250 111 214 111 214 129 258.41 129 258.41 111 294.41 111 294.41 93 258.41 93 258.41 75" style="fill:white"/>
+<rect x="191.71" y="130.5" width="29" height="18" style="fill:white"/>
+</g>
+</g>
+</svg>

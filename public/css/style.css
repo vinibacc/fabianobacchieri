@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Allura|Nothing+You+Could+Do|Rock+Salt|Zeyada');
+.font-nome{
+    font-family: 'Zeyada', cursive;
+}
+.font-chac{
+    font-family: 'Nothing You Could Do', cursive;
+}  
+.font-folck{
+    font-family: 'Rock Salt', cursive;
+}  
+.font-solit{
+    font-family: 'Allura', cursive;
+}
+.tl{
+    font-size: 4em;
+}
+.titulo{
+    font-size: 10em;
+}
+/*
+Removes white gap between slides - chagnge to base color of slide images
+*/
+.carousel {
+    background:#007aeb;
+  }
+  
+  /*
+  Forces image to be 100% width and not max width of 100%
+  */
+  .carousel-item .img-fluid {
+    width:100%;
+    height:100vh;
+  }
+  
+  /* 
+  anchors are inline so you need ot make them block to go full width
+  */
+  .carousel-item a {
+    display: block;
+    width:100%;
+  }
+
+  .carousel-caption h2{
+      margin-bottom: 40vh;
+  }
+
+header {
+    height:100vh;
+    min-height:400px;
+    background-size:cover;
+    background-image:url('https://scontent.fpet1-1.fna.fbcdn.net/v/t1.0-9/390598_502199363179810_481832349_n.jpg?_nc_cat=0&oh=ee1f507fe9e2e1d9ed06180a196373ed&oe=5C23BF12');
+}
+  
+.marca{
+    fill:#fff;
+    stroke:#fff;
+    stroke-miterlimit:10;
+}
+
+.nav-item a{
+    color: #fff;
+}
+.dropdown-menu{
+    background-color: rgba(0, 0, 0, 0.1)
+}
+.carousel-indicators li:nth-child(1){
+    background-color: black;
+}
+.carousel-indicators li:nth-child(2){
+    background-color: purple;
+}
+.carousel-indicators li:nth-child(3){
+    background-color: yellow;
+}
+.carousel-indicators li:nth-child(4){
+    background-color: red;
+}
+
+iframe{
+    float: right;
+    padding-top: 15%;
+    height:50vh;
+    min-height:200px;
+}
+
+.secao{
+    padding-top: 10%;
+    max-height: 100vh;
+}
+.jumbotron{
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 1px solid white;
+    color:white;
+}
+@media only screen and (max-width: 991px) {
+    
+    .navbar-brand{
+        font-size: 2em;
+        border: none;
+    }
+    .navbar-toggler{
+        border: none;
+    }  
+    .navbar{
+        background-color: rgba(0, 0, 0, 0.8);
+    }  
+    #marca{
+        display: none;
+    }
+    #social{
+        display: none;
+    }
+    iframe{
+        width: 100%;
+        padding-top: 40%;
+        height:90vh;
+        min-height:200px;
+    }
+}
